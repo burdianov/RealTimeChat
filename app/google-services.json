@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "796342838914",
+    "firebase_url": "https://chatapp-41d9e.firebaseio.com",
+    "project_id": "chatapp-41d9e",
+    "storage_bucket": "chatapp-41d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796342838914:android:3b1448401f6da4c1",
+        "android_client_info": {
+          "package_name": "com.testography.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796342838914-0btssqqq1l3ki0qavtvneolh2jfnha5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSdSjpErRBCDExquYgo6qPFF54pmT9Lao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
